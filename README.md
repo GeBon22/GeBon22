@@ -6,9 +6,10 @@
 --- 
 
 Thinks I'd like to take on in the <b> coming months </b>:
-- HTML,CSS
+- HTML, CSS
 - JavaScript
 - React
+- PHP
 - anything I can get ahold of... 
 --- 
 
