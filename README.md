@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there 🙌
 
 > I am George, currently working on changing career coming from a german and international law background to front end development and UI/UX Design, Webdesign. After working with wordpress I needed to explore more!
 
