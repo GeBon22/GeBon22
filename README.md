@@ -18,4 +18,3 @@ Come back again soon! We are not alone...
 ![Visitor Count](https://profile-counter.glitch.me/{GeBon22}/count.svg)
 
 ---
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
