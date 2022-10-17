@@ -14,13 +14,13 @@ Thinks I'd like to take on in the <b> coming months </b>:
 - anything I can get ahold of... 
 </p>
 
+---
+<p align="center">
+<img src="https://media.tenor.com/57w9du3NrV0AAAAd/css-html.gif" alt="animated" />
+</p>
+
 --- 
 
 Come back again soon! We are not alone...
 
 ![Visitor Count](https://profile-counter.glitch.me/{GeBon22}/count.svg)
-
----
-<p align="center">
-<img src="https://media.tenor.com/57w9du3NrV0AAAAd/css-html.gif" alt="animated" />
-</p>
