@@ -18,7 +18,8 @@ Thinks I will take on in the <b> coming months </b>
 </p>
 
 --- 
-
+<p align="center">
 Come back again soon! We are not alone...
 
 ![Visitor Count](https://profile-counter.glitch.me/{GeBon22}/count.svg)
+</p>
