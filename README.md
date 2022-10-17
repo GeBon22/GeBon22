@@ -13,6 +13,7 @@ Thinks I'd like to take on in the <b> coming months </b>:
 - PHP
 - anything I can get ahold of... 
 </p>
+
 --- 
 
 Come back again soon! We are not alone...
