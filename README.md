@@ -8,7 +8,7 @@
 
 --- 
 <p align="center">
-Thinks I will take on in the <b> coming months </b>
+Things I will take on in the <b> coming months </b>
 - JavaScript - React - Redux - HTML5 - CSS3 - Modular CSS - Mobile Apps - Scrum & Kanban - Responsive Websites - Node.js - NoSQL - anything I can get ahold of... 
 </p>
 
