@@ -18,4 +18,4 @@ Come back again soon! We are not alone...
 ![Visitor Count](https://profile-counter.glitch.me/{GeBon22}/count.svg)
 
 ---
-! [] (https://media.tenor.com/57w9du3NrV0AAAAd/css-html.gif)
+! [](https://media.tenor.com/57w9du3NrV0AAAAd/css-html.gif)
