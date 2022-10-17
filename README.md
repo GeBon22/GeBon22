@@ -1,8 +1,9 @@
-# Hi there 🙌
+<h1 style="text-align: center;">Hello there! 👋 </h1>
+
+![](https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif)
 
 > I am George, currently working on changing career coming from a german and international law background to front end development and UI/UX Design, Webdesign. After working with wordpress I needed to explore more!
 
-![](https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif)
 --- 
 
 Thinks I'd like to take on in the <b> coming months </b>:
