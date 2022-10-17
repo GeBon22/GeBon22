@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">Hello there! 👋 </h1>
+<h1 align="center">Hello there! 👋 </h1>
 
 ![](https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif)
 
