@@ -21,5 +21,5 @@ Thinks I will take on in the <b> coming months </b>
 <p align="center">
 Come back again soon! 
 
-![Visitor Count](https://profile-counter.glitch.me/{GeBon22}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{GeBon22}/count.svg) ... and growing!
 </p>
