@@ -6,10 +6,9 @@
 
 > I am George, currently working on changing career coming from a german and international law background to Web Development.
 
-- JavaScript - React - Redux - HTML5 - CSS3 - Modular CSS - Mobile Apps - Scrum & Kanban - Responsive Websites - Node.js - NoSQL.
 --- 
 <p align="center">
-Thinks I will take on in the <b> coming months </b>:
+Thinks I will take on in the <b> coming months </b>
 - JavaScript - React - Redux - HTML5 - CSS3 - Modular CSS - Mobile Apps - Scrum & Kanban - Responsive Websites - Node.js - NoSQL - anything I can get ahold of... 
 </p>
 
