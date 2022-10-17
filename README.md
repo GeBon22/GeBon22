@@ -4,16 +4,13 @@
 <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" alt="animated" />
 </p>
 
-> I am George, currently working on changing career coming from a german and international law background to front end development and UI/UX Design, Webdesign. After working with wordpress I needed to explore more!
+> I am George, currently working on changing career coming from a german and international law background to Web Development.
 
+- JavaScript - React - Redux - HTML5 - CSS3 - Modular CSS - Mobile Apps - Scrum & Kanban - Responsive Websites - Node.js - NoSQL.
 --- 
 <p align="center">
-Thinks I'd like to take on in the <b> coming months </b>:
-- HTML, CSS
-- JavaScript
-- React
-- PHP
-- anything I can get ahold of... 
+Thinks I will take on in the <b> coming months </b>:
+- JavaScript - React - Redux - HTML5 - CSS3 - Modular CSS - Mobile Apps - Scrum & Kanban - Responsive Websites - Node.js - NoSQL - anything I can get ahold of... 
 </p>
 
 ---
