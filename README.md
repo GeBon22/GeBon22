@@ -19,5 +19,5 @@ Come back again soon! We are not alone...
 
 ---
 <p align="center">
-![](https://media.tenor.com/57w9du3NrV0AAAAd/css-html.gif)
+<img src="https://media.tenor.com/57w9du3NrV0AAAAd/css-html.gif" alt="animated" />
 </p>
