@@ -1,6 +1,8 @@
 <h1 align="center">Hello there! 👋 </h1>
 
-![](https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif)
+<p align="center">
+<img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" alt="animated" />
+</p>
 
 > I am George, currently working on changing career coming from a german and international law background to front end development and UI/UX Design, Webdesign. After working with wordpress I needed to explore more!
 
