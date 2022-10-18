@@ -4,7 +4,7 @@
 <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" alt="animated" />
 </p>
 
-> I am George, currently working on changing career coming from a german and international law background to Web Development.
+> I am Georg, currently working on changing career coming from a german and international law background to Web Development.
 
 --- 
 <p align="center">
