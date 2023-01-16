@@ -4,13 +4,7 @@
 <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" alt="animated" />
 </p>
 
-> I am Georg, currently working on changing career coming from a german and international law background to Web Development.
-
---- 
-<p align="center">
-Things I will take on in the <b> coming months </b>
-- JavaScript - React - Redux - HTML5 - CSS3 - Modular CSS - Mobile Apps - Scrum & Kanban - Responsive Websites - Node.js - NoSQL - anything I can get ahold of... 
-</p>
+> I am Georg, Web Dev and Designer based in Germany.
 
 ---
 <p align="center">
