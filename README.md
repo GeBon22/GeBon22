@@ -4,7 +4,7 @@
 <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" alt="animated" />
 </p>
 
-> I am Georg, Web Dev and Designer based in Germany. Feel free to contact me or take a look at my projects. Cheers!
+> I am Georg, Web Dev based in Germany. Feel free to contact me or take a look at my projects. Cheers!
 
 ---
 <p align="center">
