@@ -11,7 +11,7 @@
 
 ---
 
-### 🚀 Skills & Technologies
+### 🚀 Skills & Technologies I am working with and learning
 
 #### **Programming Languages**
 <p align="center">
