@@ -72,8 +72,6 @@
 <h2 align="center">👋 **Thanks for stopping by!**</h2><br>
 <p align="center">
   Come back again soon!  
-  <br />
-  ![Visitor Count](https://profile-counter.glitch.me/{GeBon22}/count.svg) ... and growing!
 </p>
 
 <p align="center">
