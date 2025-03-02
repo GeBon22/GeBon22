@@ -1,4 +1,4 @@
-# Georg - Web Developer 🌍
+# Hi I am Georg 🌍
 
 Passionate about creating modern, scalable web applications. I specialize in both frontend and backend technologies, focusing on clean code and performance. Based in Germany, I'm always eager to connect and collaborate on exciting projects.
 
